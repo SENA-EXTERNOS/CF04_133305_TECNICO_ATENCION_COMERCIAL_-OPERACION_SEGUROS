@@ -81,8 +81,8 @@
             .tarjeta-avatar
               img(src='@/assets/curso/tema4/img09.svg' alt='AvatarTop')
               .tarjeta.color-acento-botones.p-4
-                h4.text-center Financiamiento del terrorismo
-                hr
+                h4.text-center.mb-0 Financiamiento del terrorismo
+                <hr style="margin: 0em; margin-top: 0.4em; margin-bottom: 1.5em">
                 p.text-center.mb-5 Quien legalmente provea, recolecte, entregue, reciba, administre, aporte, custodie, o guarde fondos, bienes y recursos, o cualquier otro acto que promueva, organice, apoye, mantenga, financie o sostenga económicamente, grupos armados al margen de la ley, o a sus integrantes, o a grupos terroristas nacionales o extranjeros, está financiando al terrorismo.
 
     p A continuación, se presenta la clasificación de riesgos según este Sistema de Administración del Riesgo de Lavado de Activos y de la Financiación del Terrorismo.
@@ -90,25 +90,25 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.order-lg-1.order-2
         TabsA.color-primario.mb-5(data-aos="fade-right")
-          .row.justify-content-center.tarjeta.color-primario--borde.p-4(titulo="Cliente")
+          .row.justify-content-center.tarjeta.color-primario--borde.p-4(titulo="Reputacional")
             .col-lg-2.col-3
               img(src="@/assets/curso/tema4/img10.svg")
             .col
               .h4 Reputacional
               p.mb-0 La administración de la imagen de la organización como el desprestigio y la publicidad negativa.
-          .row.justify-content-center.tarjeta.color-primario--borde.p-4(titulo="Cliente")
+          .row.justify-content-center.tarjeta.color-primario--borde.p-4(titulo="Legales")
             .col-lg-2.col-3
               img(src="@/assets/curso/tema4/img11.svg")
             .col
               .h4 Legales
               p.mb-0 Sanciones, multas, indemnizaciones o fallas en contratos.
-          .row.justify-content-center.tarjeta.color-primario--borde.p-4(titulo="Cliente")
+          .row.justify-content-center.tarjeta.color-primario--borde.p-4(titulo="Contagio")
             .col-lg-2.col-3
               img(src="@/assets/curso/tema4/img12.svg")
             .col
               .h4 Contagio
               p.mb-0 Relación de algún miembro de la organización con alguna actividad delictiva, afectando como consecuencia, el nombre de la empresa.
-          .row.justify-content-center.tarjeta.color-primario--borde.p-4(titulo="Cliente")
+          .row.justify-content-center.tarjeta.color-primario--borde.p-4(titulo="Operativos")
             .col-lg-2.col-3
               img(src="@/assets/curso/tema4/img13.svg")
             .col

@@ -14,7 +14,7 @@
         .col-lg-6
           p.mb-0 Para iniciar con el desarrollo de este recurso educativo, es importante conocer el sistema financiero colombiano. Este se encuentra conformado por organismos e instituciones, tanto públicas como privadas, cuya función es captar, administrar, regular y dirigir, los recursos financieros que se negocian entre los diversos entes económicos como personas, empresas y Estado.
       
-      p.mb-40En los inicios del sistema financiero colombiano, la constitución de un banco privado requería de #[b trescientos mil pesos] para su inicio; en la actualidad asciende a #[b ocho mil millones de pesos], ajustables anualmente según el IPC (Índice de Precios al Consumidor). Antiguamente, los bancos podían adquirir obligaciones con el público, solamente hasta por un monto equivalente a 10 veces su capital pagado y su reserva legal, protegiendo así a las personas, de manera que los bancos no crecieran exageradamente con base en depósitos que, luego, salvo el encaje, fueran colocados en créditos.
+      p.mb-0 En los inicios del sistema financiero colombiano, la constitución de un banco privado requería de #[b trescientos mil pesos] para su inicio; en la actualidad asciende a #[b ocho mil millones de pesos], ajustables anualmente según el IPC (Índice de Precios al Consumidor). Antiguamente, los bancos podían adquirir obligaciones con el público, solamente hasta por un monto equivalente a 10 veces su capital pagado y su reserva legal, protegiendo así a las personas, de manera que los bancos no crecieran exageradamente con base en depósitos que, luego, salvo el encaje, fueran colocados en créditos.
 
     
     p A continuación, se presentan algunos hechos importantes de la historia del sistema financiero en Colombia.
