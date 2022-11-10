@@ -71,7 +71,6 @@
         .py-4.py-md-5(titulo="Objetivo" :icono="require('@/assets/curso/tema2/img07.svg')")
           .row.align-items-center
             .col-lg-6.order-lg-1.order-2
-              .h4 Objetivo
               p Un objetivo es el fin o meta que se propone alcanzar y hacia el cual se dirigen los esfuerzos y recursos de la organización. Al hacer referencia a los objetivos dentro del plan estratégico de #[em marketing], se deben tener en cuenta aspectos como:
               ul.lista-ul--color.ms-4
                 li
@@ -94,21 +93,18 @@
         .py-4.py-md-5(titulo="Políticas" :icono="require('@/assets/curso/tema2/img08.svg')")
           .row.align-items-center
             .col-lg-6.order-lg-1.order-2
-              .h4 Políticas
               p.mb-0 Las políticas son el conjunto de criterios de ejecución que aportan al logro de los objetivos y facilitan la implementación de las estrategias. Las políticas tienen un carácter descriptivo y se constituyen en guías para orientar las acciones. Su actuación a nivel organizacional es fundamental, atendiendo a los lineamientos que se establecen y que contribuyen con la dirección, para la toma de decisiones. Generalmente, se encuentran políticas sobre el producto o el servicio, políticas de precios, políticas de distribución y políticas sobre medios. Un ejemplo de estos aspectos, es la fijación de precios, tanto para el producto, el canal o el medio, desde políticas que se fundamentan en los costos del producto, atendiendo a un porcentaje de rentabilidad promedio en el mercado.
             .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema2/img12.png")
         .py-4.py-md-5(titulo="Programas de acción" :icono="require('@/assets/curso/tema2/img09.svg')")
           .row.align-items-center
             .col-lg-6.order-lg-1.order-2
-              .h4 Programas de acción
               p.mb-0 Están encaminados a corregir o ajustar las no conformidades o desviaciones en los procesos organizacionales. Estos desarrollos requieren de seguimiento y acompañamiento, con el ánimo de alcanzar los resultados correctivos. Siendo resultado de todo proceso estratégico, los programas, facilitan ordenar los objetivos y la comunicación asertiva. De allí que los programas de acciones en el plan de #[em marketing] se posicionan como un instrumento que contribuye al proceso de evaluación y, por ende, de mejora, donde al especificar elementos como las tareas que se deben ejecutar, sus responsables asignados y el tiempo y los recursos para poder realizar esas tareas, permiten un control de avance y seguimiento adecuado. Para el área específica de #[em marketing], como proceso organizacional, un plan de acción que esté enfocado en la estrategia de consolidación de grupo objetivo, debe contener una actividad de relanzamiento con muestras gratis, que especifique la población a impactar y la tarea de seguimiento para fidelizar a esos clientes.
             .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema2/img13.png")
         .py-4.py-md-5(titulo="Estrategia" :icono="require('@/assets/curso/tema2/img10.svg')")
           .row.align-items-center
             .col-lg-6.order-lg-1.order-2
-              .h4 Estrategia
               p.mb-0 Se refiere a los cursos de acción que proponen el paso a paso para exponer, ante la dirección, la gestión y la utilización de los recursos disponibles en el cumplimiento de los objetivos organizacionales. Charles O. Rossotti (2003), dice: “estrategia es el motor que incrementa la flexibilidad de la organización, para adaptarse al cambio y la capacidad para alcanzar las nuevas y creativas opiniones”. Las estrategias responden al interrogante del qué vamos a hacer para llegar a la meta propuesta. Desde un concepto más global, se entiende como el conjunto de previsiones sobre fines y procedimientos que forman una secuencia lógica de pasos o fases a ser ejecutadas y que permiten alcanzar los objetivos planeados con efectividad. Se pueden clasificar desde lo operativo, lo técnico y lo táctico. Se pueden formular desde la alta gerencia, o desde las diferentes áreas funcionales.
             .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src="@/assets/curso/tema2/img14.png")
@@ -234,8 +230,8 @@
       .row.justify-content-center.align-items-center(titulo="Determinación de estrategias")
         .col-lg-6.order-lg-1.order-2
           p Establecen el qué se va hacer para llegar a los objetivos propuestos.
-          Se clasifican como generales, tácticas u operativas. Se determinan según los lineamientos o políticas del área objeto de estudio y responden a su participación en la misión organizacional. Las estrategias dan foco a las acciones y en períodos de tiempo que sean sujetos medibles y pertinentes.
-          El plan estratégico de #[em marketing] se va desarrollando a través de tácticas muy específicas que son resultados de la planeación operativa. Establecen:
+          p Se clasifican como generales, tácticas u operativas. Se determinan según los lineamientos o políticas del área objeto de estudio y responden a su participación en la misión organizacional. Las estrategias dan foco a las acciones y en períodos de tiempo que sean sujetos medibles y pertinentes.
+          p El plan estratégico de #[em marketing] se va desarrollando a través de tácticas muy específicas que son resultados de la planeación operativa. Establecen:
           ul.lista-ul--color.ms-4  
             <li style="margin-bottom: 1px">
               <i class="fas fa-circle" style="color:#30610C; font-size: x-small"></i>
@@ -293,24 +289,21 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img21.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
-              .h4.mt-4 Políticas generales
-              p.mb-0 Son para toda la empresa y se debe comprobar que la totalidad de los departamentos están al tanto de estas políticas, porque sirven de guía para el comportamiento de todo el personal de la empresa.
+              p Son para toda la empresa y se debe comprobar que la totalidad de los departamentos están al tanto de estas políticas, porque sirven de guía para el comportamiento de todo el personal de la empresa.
       .col-lg-4.col-7.mb-lg-0.mb-4(data-aos="flip-up")
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img22.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
-              .h4.mt-4 Políticas departamentales
-              p.mb-0 Son normas específicas por áreas. Las más comunes son aquellas en las que se especifican los objetivos de calidad que se deben alcanzar por una rama de la organización, políticas medioambientales, prevención de riesgos laborales.
+              p Son normas específicas por áreas. Las más comunes son aquellas en las que se especifican los objetivos de calidad que se deben alcanzar por una rama de la organización, políticas medioambientales, prevención de riesgos laborales.
       .col-lg-4.col-7(data-aos="fade-left")
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img23.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
-              .h4.mt-4 Políticas específicas
-              p.mb-5 Se fijan para cumplir las necesidades momentáneas o actividades temporales de la empresa, en un momento dado.
+              p Se fijan para cumplir las necesidades momentáneas o actividades temporales de la empresa, en un momento dado.
     
     .BGIMG02.p-md-5.p-4(data-aos="fade-right")
       .h4 Políticas según las organizaciones
@@ -319,39 +312,35 @@
 
       .row.justify-content-center.mb-4
         .col-lg-4.col-8.mb-lg-0.mb-4
-          .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
-            .indicador--hover(v-if="indicadorTarjetaSlide")
-            .tarjeta-slide__contenedor
-              .tarjeta-slide__contenido.p-4.p-xl-5
-                .h4.mt-5 Gestión de calidad
-                p.mb-5 Son políticas que van dirigidas a cumplir los requisitos y los compromisos fijados por la empresa. Muestran el plan de mejoramiento de la empresa en la calidad, a corto y a largo plazo.
-              .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img24.svg')})`}")
+          .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
+            .indicador--hover(v-if="indicadorTarjetaFlip")
+            .tarjeta-flip__contenedor
+              .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img24.svg')})`}")
+              .t.tarjeta-flip__contenido.px-0.p-4.p-xl-5
+                p.my-5 Son políticas que van dirigidas a cumplir los requisitos y los compromisos fijados por la empresa. Muestran el plan de mejoramiento de la empresa en la calidad, a corto y a largo plazo.
         .col-lg-4.col-8
-          .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
-            .indicador--hover(v-if="indicadorTarjetaSlide")
-            .tarjeta-slide__contenedor
-              .tarjeta-slide__contenido.p-4.p-xl-5
-                .h4.mt-5 Gestión medioambiental
-                p.mb-5 Permiten cumplir con la normativa medioambiental vigente y promover ambientalmente el reciclado, la disminución de la contaminación, el uso de transporte público.
-              .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img25.svg')})`}")
+          .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
+            .indicador--hover(v-if="indicadorTarjetaFlip")
+            .tarjeta-flip__contenedor
+              .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img25.svg')})`}")
+              .t.tarjeta-flip__contenido.px-0.p-4.p-xl-5
+                p.my-5 Permiten cumplir con la normativa medioambiental vigente y promover ambientalmente el reciclado, la disminución de la contaminación, el uso de transporte público.
       
       .row.justify-content-center.mb-4
         .col-lg-4.col-8.mb-lg-0.mb-4
-          .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
-            .indicador--hover(v-if="indicadorTarjetaSlide")
-            .tarjeta-slide__contenedor
-              .tarjeta-slide__contenido.p-4.p-xl-5
-                .h4.mt-5 Seguridad y salud en el trabajo
-                p.mb-5 Son normas para garantizar un uso responsable de la maquinaria y otras herramientas en la empresa, con el objetivo de evitar accidentes y garantizar la integridad física y mental del personal.
-              .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img26.svg')})`}")
+          .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
+            .indicador--hover(v-if="indicadorTarjetaFlip")
+            .tarjeta-flip__contenedor
+              .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img26.svg')})`}")
+              .t.tarjeta-flip__contenido.px-0.p-4.p-xl-5
+                p.my-5 Son normas para garantizar un uso responsable de la maquinaria y otras herramientas en la empresa, con el objetivo de evitar accidentes y garantizar la integridad física y mental del personal.
         .col-lg-4.col-8
-          .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
-            .indicador--hover(v-if="indicadorTarjetaSlide")
-            .tarjeta-slide__contenedor
-              .tarjeta-slide__contenido.p-4.p-xl-5
-                .h4.mt-5 Privacidad y confidencialidad
-                p.mb-5 Estas suelen ir encaminadas a la protección de la empresa, protegen la información sensible que posee la organización, para poder garantizar una buena relación legal entre el personal, la empresa y los compradores.
-              .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img27.svg')})`}")
+          .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
+            .indicador--hover(v-if="indicadorTarjetaFlip")
+            .tarjeta-flip__contenedor
+              .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img27.svg')})`}")
+              .t.tarjeta-flip__contenido.px-0.p-4.p-xl-5
+                p.my-5 Estas suelen ir encaminadas a la protección de la empresa, protegen la información sensible que posee la organización, para poder garantizar una buena relación legal entre el personal, la empresa y los compradores.
 
 </template>
 

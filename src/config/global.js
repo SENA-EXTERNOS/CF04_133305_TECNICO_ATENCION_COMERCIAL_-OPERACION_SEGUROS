@@ -73,7 +73,7 @@ export default {
       {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
-        numero: '5',
+        numero: '4',
         titulo: 'Consumidor financiero',
         desarrolloContenidos: true,
       },
@@ -122,7 +122,7 @@ export default {
     {
       tema: 'Sistema financiero',
       referencia:
-        'Ministerio de Hacienda y Crédito Público. (s.f.). Conformación del Sistema Financiero Colombiano. Superintentencia Financiera de Colombia.',
+        'Ministerio de Hacienda y Crédito Público. (s.f.). <em>Conformación del Sistema Financiero Colombiano</em>. Superintentencia Financiera de Colombia.',
       tipo: 'Artículo',
       link:
         'https://www.superfinanciera.gov.co/jsp/Publicaciones/publicaciones/loadContenidoPublicacion/id/11268/dPrint/1/c/00',
@@ -204,13 +204,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Findeter. (s.f.). Atención al Consumidor Financiero. Findeter.',
+        'Findeter. (s.f.). <em>Atención al Consumidor Financiero</em>. Findeter.',
       link:
         'https://www.findeter.gov.co/sistema-de-atencion-al-consumidor-financiero-sac',
     },
     {
       referencia:
-        'Kotler, P. y Armstrong, G. (2008). Fundamentos de marketing. Pearson Educación.',
+        'Kotler, P. y Armstrong, G. (2008). <em>Fundamentos de marketing</em>. Pearson Educación.',
       link:
         'https://www.academia.edu/42228045/Kotler_P_and_Armstrong_G_2008_Fundamentos_de_marketing_8va_edici%C3%B3n_Pearson_Educaci%C3%B3n_M%C3%A9xico',
     },
@@ -220,7 +220,8 @@ export default {
       link: 'https://normativa.archivogeneral.gov.co/ley-795-de/',
     },
     {
-      referencia: 'Rossotti, C. (2003). Empresa, estrategia y gestión. ',
+      referencia:
+        'Rossotti, C. (2003). <em>Empresa, estrategia y gestión.</em>',
     },
   ],
   creditos: {

@@ -10,7 +10,7 @@
             img(src="@/assets/template/arrastrar.svg")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Arrastrar y soltar
+          h2 Sistema financiero, #[em marketing], productos, normatividad, modelos y riesgo financiero
         p Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
         p De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
 

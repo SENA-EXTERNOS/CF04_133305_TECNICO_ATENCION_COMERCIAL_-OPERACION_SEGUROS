@@ -2,10 +2,6 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-
-    .titulo-sexto.color-primario.mb-4(data-aos="fade-right")
-      h2.mb-2 Atención comercial y operación en seguros
-      p.mb-0 Sistema financiero, #[em marketing], productos, normatividad, modelos y riesgo financiero 
     
     p.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
 

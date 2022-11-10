@@ -37,7 +37,7 @@
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img04.svg")
           .col-lg-6
-            p.mb-0 Las recomendaciones de la Misión Kemmerer fueron plasmadas en las Leyes 25 y 45 de 1923, del sistema bancario y comercial, el cual permitió que creciera una red de intermediarios que permitirían llevar al país a la depresión de la crisis de los años 30 y sentar las bases de la industrialización que se observa actualmente.
+            p.mb-0 Las recomendaciones de la #[b Misión Kemmerer] fueron plasmadas en las Leyes 25 y 45 de 1923, del sistema bancario y comercial, el cual permitió que creciera una red de intermediarios que permitirían llevar al país a la depresión de la crisis de los años 30 y sentar las bases de la industrialización que se observa actualmente.
         .row.justify-content-center.align-items-center(titulo="Años 30")
           .col-lg-4.col-8.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/img05.svg")
@@ -120,7 +120,7 @@
               .col-xl-2.col-3
                 img(src='@/assets/curso/tema1/img18.svg')
               .col
-                p.mb-0 Son instituciones cuyo objeto es el de realizar operaciones activas de crédito para facilitar la comercialización de bienes y servicios y realizar operaciones de arrendamiento financiero o leasing, mediante la captación de recursos a término.
+                p.mb-0 Son instituciones cuyo objeto es el de realizar operaciones activas de crédito para facilitar la comercialización de bienes y servicios y realizar operaciones de arrendamiento financiero o #[em leasing], mediante la captación de recursos a término.
             .row.justify-content-center(numero="4" titulo="Cooperativas financieras")
               .col-xl-2.col-3
                 img(src='@/assets/curso/tema1/img19.svg')

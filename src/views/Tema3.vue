@@ -20,25 +20,21 @@
           .col-lg-2.col-3
             img(src="@/assets/curso/tema3/img02.svg")
           .col
-            .h4 Cliente
             p.mb-0 Es la persona natural o jurídica con quien las entidades vigiladas establecen relaciones de origen legal o contractual, para el suministro de productos o servicios, en desarrollo de su objeto social.
         .row.justify-content-center.tarjeta.color-primario--borde.p-4(titulo="Usuario")
           .col-lg-2.col-3
             img(src="@/assets/curso/tema3/img03.svg")
           .col
-            .h4 Usuario
             p.mb-0 Es la persona natural o jurídica quien, sin ser cliente, utiliza los servicios de una entidad vigilada.
         .row.justify-content-center.tarjeta.color-primario--borde.p-4(titulo="Cliente potencial")
           .col-lg-2.col-3
             img(src="@/assets/curso/tema3/img04.svg")
           .col
-            .h4 Cliente potencial
             p.mb-0 Es la persona natural o jurídica que se encuentra en la fase previa de tratativas preliminares con la entidad vigilada, con respecto de los productos o servicios ofrecidos por esta.
         .row.justify-content-center.tarjeta.color-primario--borde.p-4(titulo="Consumidor financiero")
           .col-lg-2.col-3
             img(src="@/assets/curso/tema3/img05.svg")
           .col
-            .h4 Consumidor financiero
             p.mb-0 Es todo cliente, usuario o cliente potencial de las entidades vigiladas.
 
       p Sin embargo, estas definiciones no son las únicas que se pueden encontrar, pues también se hallan otro tipo de definiciones de los clientes financieros, de acuerdo con circulares y otras leyes.
@@ -188,8 +184,8 @@
               .col-lg-2.col-3(data-aos="fade-right")
                 img(src="@/assets/curso/tema3/img13.svg")
               .col(data-aos="fade-left")
-                h4.text-center.me-5 Cuentas de nómina
-                p.mb-0 Son cuentas que usan los empleadores como medio de pago salarial a sus empleados; beneficios de comisiones y gastos operacionales por parte del banco, son dados a las empresas contratantes; el empleado o titular de la cuenta tiene la libertad de elegir a la entidad bancaria.
+                h4.text-start Cuentas de nómina
+                p.text-start.mb-0 Son cuentas que usan los empleadores como medio de pago salarial a sus empleados; beneficios de comisiones y gastos operacionales por parte del banco, son dados a las empresas contratantes; el empleado o titular de la cuenta tiene la libertad de elegir a la entidad bancaria.
             .row.justify-content-center.align-items-center
               .col(data-aos="fade-right")
                 h4 Crédito bajo monto
@@ -200,8 +196,8 @@
               .col-lg-2.col-3(data-aos="fade-right")
                 img(src="@/assets/curso/tema3/img15.svg")
               .col(data-aos="fade-left")
-                h4.text-center.me-5 Tarjeta de crédito
-                p.mb-0 Productos financieros de crédito más demandados en Colombia. Los altos montos que se otorgan, actualmente, mediante la tarjeta de crédito y los estudios de capacidad de endeudamiento, tanto del solicitante, como de las empresas y entidades financieras que ofrecen el crédito, podrían significar un alto riesgo.
+                h4.text-start Tarjeta de crédito
+                p.text-start.mb-0 Productos financieros de crédito más demandados en Colombia. Los altos montos que se otorgan, actualmente, mediante la tarjeta de crédito y los estudios de capacidad de endeudamiento, tanto del solicitante, como de las empresas y entidades financieras que ofrecen el crédito, podrían significar un alto riesgo.
             .row.justify-content-center.align-items-center
               .col(data-aos="fade-right")
                 h4 Crédito de libre inversión
@@ -212,8 +208,8 @@
               .col-lg-2.col-3(data-aos="fade-right")
                 img(src="@/assets/curso/tema3/img17.svg")
               .col(data-aos="fade-left")
-                h4.text-center.me-5 Crédito educativo
-                p.mb-0 Financiamiento estudiantil, se exigen los comprobantes necesarios y algunas condiciones de consignación, para garantizar que el dinero se dirigirá a la entidad o institución educativa correspondiente.
+                h4.text-start Crédito educativo
+                p.text-start.mb-0 Financiamiento estudiantil, se exigen los comprobantes necesarios y algunas condiciones de consignación, para garantizar que el dinero se dirigirá a la entidad o institución educativa correspondiente.
             .row.justify-content-center.align-items-center
               .col(data-aos="fade-right")
                 h4 Crédito hipotecario
@@ -224,8 +220,8 @@
               .col-lg-2.col-3(data-aos="fade-right")
                 img(src="@/assets/curso/tema3/img19.svg")
               .col(data-aos="fade-left")
-                h4.text-center.me-5 Productos financieros de inversión
-                p.mb-0 Grupos de inversión colectiva en los que participan muchas personas y empresas. Aunque con el dinero de toda una sociedad, gestiona las inversiones que se realizan y se reparten los beneficios.
+                h4.text-start Productos financieros de inversión
+                p.text-start.mb-0 Grupos de inversión colectiva en los que participan muchas personas y empresas. Aunque con el dinero de toda una sociedad, gestiona las inversiones que se realizan y se reparten los beneficios.
             .row.justify-content-center.align-items-center
               .col(data-aos="fade-right")
                 h4 Bonos
@@ -236,8 +232,8 @@
               .col-lg-2.col-3(data-aos="fade-right")
                 img(src="@/assets/curso/tema3/img21.svg")
               .col(data-aos="fade-left")
-                h4.text-center.me-5 Productos de inversión a tasa fija
-                p.mb-0 Este producto tiene una rentabilidad fija y se puede invertir por tasa publica; negociación por deudas públicas que tiene el estado y generan rentabilidades que se representan en bono. Tasa privada, la sociedad emisora se compromete a retribuir a los tenedores de los valores, con un interés fijo y se representa en bonos.
+                h4.text-start Productos de inversión a tasa fija
+                p.text-start.mb-0 Este producto tiene una rentabilidad fija y se puede invertir por tasa pública; negociación por deudas públicas que tiene el estado y generan rentabilidades que se representan en bono. Tasa privada, la sociedad emisora se compromete a retribuir a los tenedores de los valores, con un interés fijo y se representa en bonos.
             .row.justify-content-center.align-items-center
               .col(data-aos="fade-right")
                 h4 Productos de inversión a tasa variable
@@ -248,8 +244,8 @@
               .col-lg-2.col-3(data-aos="fade-right")
                 img(src="@/assets/curso/tema3/img23.svg")
               .col(data-aos="fade-left")
-                h4.text-center.me-5 Fondos de inversión
-                p.mb-0 Son un patrimonio formado por las aportaciones variables de inversionistas, denominados partícipes. Firmas especializadas en el manejo de la bolsa valores donde se hace la inversión, ya sea en acciones o en divisas.
+                h4.text-start Fondos de inversión
+                p.text-start.mb-0 Son un patrimonio formado por las aportaciones variables de inversionistas, denominados partícipes. Firmas especializadas en el manejo de la bolsa valores donde se hace la inversión, ya sea en acciones o en divisas.
 
 </template>
 

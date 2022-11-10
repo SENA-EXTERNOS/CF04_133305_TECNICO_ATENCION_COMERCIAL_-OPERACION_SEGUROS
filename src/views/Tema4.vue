@@ -54,7 +54,7 @@
       p #[b Reconocimiento de los riesgos SARLAFT]: Sistema de Administración del Riesgo de Lavado de Activos y de la Financiación del Terrorismo, el cual se debe implementar en las entidades vigiladas por la Superintendencia Financiera de Colombia, para prevenir el riesgo del lavado de activos y financiamiento del terrorismo; está conformado por dos componentes.
       
       .BGR08.p-4.mb-5
-        .h4.text-center Componentes del SARLAFT
+        .h4 Los Componentes del SARLAFT son:
         .row.justify-content-center.mb-4
           .col-lg-3.col-md-6.col-8.mb-lg-0.mb-4(data-aos="fade-right")
             .tarjeta-avatar
@@ -94,25 +94,21 @@
             .col-lg-2.col-3
               img(src="@/assets/curso/tema4/img10.svg")
             .col
-              .h4 Reputacional
               p.mb-0 La administración de la imagen de la organización como el desprestigio y la publicidad negativa.
           .row.justify-content-center.tarjeta.color-primario--borde.p-4(titulo="Legales")
             .col-lg-2.col-3
               img(src="@/assets/curso/tema4/img11.svg")
             .col
-              .h4 Legales
               p.mb-0 Sanciones, multas, indemnizaciones o fallas en contratos.
           .row.justify-content-center.tarjeta.color-primario--borde.p-4(titulo="Contagio")
             .col-lg-2.col-3
               img(src="@/assets/curso/tema4/img12.svg")
             .col
-              .h4 Contagio
               p.mb-0 Relación de algún miembro de la organización con alguna actividad delictiva, afectando como consecuencia, el nombre de la empresa.
           .row.justify-content-center.tarjeta.color-primario--borde.p-4(titulo="Operativos")
             .col-lg-2.col-3
               img(src="@/assets/curso/tema4/img13.svg")
             .col
-              .h4 Operativos
               p.mb-0 Fallas o deficiencias de trabajadores, procesos, tecnología.
       .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema4/img14.svg")
@@ -155,7 +151,7 @@
 
     .row.justify-content-center.mb-4
       .col-lg-10.cajon.color-secundario.p-4(data-aos="fade-right")
-        p.mb-0 Sistema de Administración del Riesgo Crediticio (SARC): busca evitar o reducir la probabilidad de pérdida para la compañía, proveniente de la disminución del valor de sus activos, como consecuencia que un deudor o contraparte incumpla con sus obligaciones. Para efectos de la evaluación de riesgo crediticio, además de los avales y codeudores solidarios, se pueden considerar como garantías idóneas de la respectiva operación, las fuentes de pago existentes que de manera incondicional atiendan suficientemente el crédito, por el simple requerimiento de la entidad acreedora.
+        p.mb-0 #[b Sistema de Administración del Riesgo Crediticio (SARC)]: busca evitar o reducir la probabilidad de pérdida para la compañía, proveniente de la disminución del valor de sus activos, como consecuencia que un deudor o contraparte incumpla con sus obligaciones. Para efectos de la evaluación de riesgo crediticio, además de los avales y codeudores solidarios, se pueden considerar como garantías idóneas de la respectiva operación, las fuentes de pago existentes que de manera incondicional atiendan suficientemente el crédito, por el simple requerimiento de la entidad acreedora.
 
     p El SARC debe estimar o cuantificar las pérdidas esperadas de cada modalidad de crédito. Las entidades pueden diseñar y adoptar respecto de la cartera comercial, de consumo, de vivienda y de microcrédito, ya sea para uno, algunos o la totalidad de sus portafolios, sus propios modelos internos de estimación; para los mismos efectos, los modelos de referencia diseñados por la SFC para diversos portafolios, las entidades deben presentarlos a la SFC para su evaluación previa, la cual, en todos los casos, emitirá un pronunciamiento con respecto de su objeción. Esta homologación es necesaria para realizar los reportes a las centrales de riesgo, los reportes de endeudamiento de crédito y el registro en los estados financieros.
     p En la Tabla 1, se presentan las calificaciones de riesgo en los reportes de endeudamiento y en el registro en los estados financieros que deben aplicar las entidades.
@@ -200,7 +196,7 @@
                 td(style="border: 3px solid #E1E1E1;").text-center E
     
     p Existe un modelo de referencia adoptado por el SFC para que las entidades califiquen a sus clientes como incumplidos.
-
+    p Estos deberán ser homologados de la siguiente manera:
     .BGIMG02.p-md-5.p-4(data-aos="fade-right")
       .row.justify-content-center.mb-4
         .col-lg-5.col-10.mb-lg-0.mb-4
