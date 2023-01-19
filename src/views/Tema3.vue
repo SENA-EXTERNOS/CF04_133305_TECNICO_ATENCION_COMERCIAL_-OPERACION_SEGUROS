@@ -38,7 +38,7 @@
             p.mb-0 Es todo cliente, usuario o cliente potencial de las entidades vigiladas.
 
       p Sin embargo, estas definiciones no son las únicas que se pueden encontrar, pues también se hallan otro tipo de definiciones de los clientes financieros, de acuerdo con circulares y otras leyes.
-      p A continuación, se presentan diferentes definiciones de cliente financiero.
+      p Conozca las diferentes definiciones de cliente financiero:
 
       .BGIMG03.p-4.mb-4(data-aos="fade-right")
         SlyderA(tipo="b")
@@ -75,7 +75,7 @@
 
       .h4 Tipos de clientes
       p La diversidad que existe para definir al cliente trae consigo, entonces, la diversificación del cliente mismo coexistiendo en un solo contexto encontrando así tipos de clientes según sus necesidades, interacciones o intenciones. 
-      p A continuación, se presentan los diferentes tipos de clientes con sus características.
+      p Los tipos de clientes, tienen diferentes características. Veamos:
 
       .BGR05.py-5.px-4.mb-4(data-aos="zoom-in")
         ImagenInfografica.color-acento-botones.mb-5

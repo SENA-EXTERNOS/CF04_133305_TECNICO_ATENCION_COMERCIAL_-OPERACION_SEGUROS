@@ -17,7 +17,7 @@
       p.mb-0 En los inicios del sistema financiero colombiano, la constitución de un banco privado requería de #[b trescientos mil pesos] para su inicio; en la actualidad asciende a #[b ocho mil millones de pesos], ajustables anualmente según el IPC (Índice de Precios al Consumidor). Antiguamente, los bancos podían adquirir obligaciones con el público, solamente hasta por un monto equivalente a 10 veces su capital pagado y su reserva legal, protegiendo así a las personas, de manera que los bancos no crecieran exageradamente con base en depósitos que, luego, salvo el encaje, fueran colocados en créditos.
 
     
-    p A continuación, se presentan algunos hechos importantes de la historia del sistema financiero en Colombia.
+    p A continuación, se presentan algunos hechos importantes de la historia del sistema financiero en Colombia:
     
     .BG01.p-4.mb-5(data-aos="zoom-in")
       LineaTiempoC.color-acento-botones(text-small)
@@ -92,7 +92,8 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
           h5 Figura 1
-          span Establecimientos financieros
+          br
+          span.fst-italic Establecimientos financieros 
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/tema1/img14.svg")
     
@@ -145,7 +146,7 @@
       .h4 Entidades aseguradoras
 
       p Así mismo, es posible encontrar que las entidades aseguradoras también hacen parte de los establecimientos financieros cuyo objetivo es la realización de operaciones de seguro, bajo las modalidades y los ramos facultados expresamente, aparte de aquellas previstas en la ley con carácter especial.
-      p A continuación, podrá conocer cuáles son algunas de las entidades aseguradoras de los establecimientos financieros.
+      p A continuación, podrá conocer cuáles son algunas de las entidades aseguradoras de los establecimientos financieros:
 
       .row.justify-content-center.mb-4
         .col-lg-6.order-lg-1.order-2(data-aos="fade-right")

@@ -85,7 +85,7 @@
                 <hr style="margin: 0em; margin-top: 0.4em; margin-bottom: 1.5em">
                 p.text-center.mb-5 Quien legalmente provea, recolecte, entregue, reciba, administre, aporte, custodie, o guarde fondos, bienes y recursos, o cualquier otro acto que promueva, organice, apoye, mantenga, financie o sostenga económicamente, grupos armados al margen de la ley, o a sus integrantes, o a grupos terroristas nacionales o extranjeros, está financiando al terrorismo.
 
-    p A continuación, se presenta la clasificación de riesgos según este Sistema de Administración del Riesgo de Lavado de Activos y de la Financiación del Terrorismo.
+    p Verifique la clasificación de riesgos según este #[b Sistema de Administración del Riesgo de Lavado de Activos y de la Financiación del Terrorismo.]
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.order-lg-1.order-2
@@ -161,7 +161,8 @@
       .col-lg-7
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
           h5 Tabla 1
-          span Agregación de categorías reportadas
+          br
+          span.fst-italic Agregación de categorías reportadas 
         
         .tabla-b.color-acento-contenido.mb-5(data-aos="zoom-in")
           table
@@ -238,7 +239,7 @@
                 img.w-75(src='@/assets/curso/tema4/img29.svg')
               .col
                 p.mb-0 Los demás clientes calificados como incumplidos.
-      p Ha finalizado el estudio de este recurso educativo. Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
+      p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
       
 </template>
 

@@ -14,9 +14,14 @@
         img(src="@/assets/curso/intro/img01.svg")
       .col-lg-9(data-aos="fade-left")
         .cajon-b.color-primario.p-3.mb-5
-          p.mb-0 Apreciado aprendiz, bienvenido a este componente formativo, donde podrá aprender sobre el sistema financiero colombiano el cual ha venido evolucionando desde un esquema más técnico y científico, hacia otro que se inclina a  la multibanca. También, podrá conocer el rol que juega el cliente y el consumidor financiero y la importancia de la adquisición de productos financieros que aportan al desarrollo y crecimiento de una empresa.
+          p.mb-0 Apreciado aprendiz, bienvenido a este componente formativo, donde podrá aprender sobre el sistema financiero colombiano el cual ha venido evolucionando desde un esquema más técnico y científico, hacia otro que se inclina a la multibanca. También, podrá conocer el rol que juegan el cliente y el consumidor financiero y la importancia de la adquisición de productos financieros que aportan al desarrollo y crecimiento de una empresa.
+            br
+            br
+            |En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
+            br
+            br
+            |#[b ¡Muchos éxitos en este proceso de aprendizaje!]
 
-    p.mb-5 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
 
     figure(data-aos="zoom-in")
       .video

@@ -13,7 +13,7 @@
       .col-lg-8
         p.mb-0 A continuación, se aborda la estrategia de #[em marketing], la cual pretende, en las organizaciones, fijar una directriz sobre la administración de recursos para el logro de objetivos y metas propuestas en el área funcional de mercadeo. Esta estrategia busca identificar las diferentes acciones a seguir, que permitan alcanzar los objetivos trazados a nivel organizacional, desde los conceptos propios de la eficiencia y la eficacia en la realización de las tareas. Cada una de estas acciones deben estar plenamente cohesionadas con la estructura general de las diferentes herramientas de gestión que utilice la organización; es por eso que los factores de tiempo y recursos a utilizar, serán entendidos y conocidos por todos los miembros del equipo de trabajo.
     
-    p A continuación, se presentan los hechos más relevantes del #[em marketing] a lo largo del tiempo.
+    p Se presentan los hechos más relevantes del #[em marketing] a lo largo del tiempo:
   
     .BGIMG03.p-4.mb-4(data-aos="fade-right")
       SlyderA(tipo="b")
@@ -111,8 +111,7 @@
 
       .h4 Etapas del plan estratégico de #[em marketing]
       p Dentro del diseño y definición del plan estratégico se contemplan unas etapas básicas e indispensables que requieren procesos de control, en la ejecución de cada una de ellas. Estas etapas están conformadas así: análisis de la situación, diagnóstico, fijación de objetivos, determinación de estrategias y presupuesto.
-      p A continuación, se explican cada una de las etapas del plan estratégico de #[em marketing].
-
+      p Las etapas del plan estratégico de #[em marketing,] son las siguientes:
     AcordionA.mb-5(tipo="a" clase-tarjeta="BGR04")
       .row.justify-content-center.align-items-center(titulo="Análisis de la situación")
         .col-lg-6.order-lg-1.order-2
@@ -230,8 +229,11 @@
       .row.justify-content-center.align-items-center(titulo="Determinación de estrategias")
         .col-lg-6.order-lg-1.order-2
           p Establecen el qué se va hacer para llegar a los objetivos propuestos.
-          p Se clasifican como generales, tácticas u operativas. Se determinan según los lineamientos o políticas del área objeto de estudio y responden a su participación en la misión organizacional. Las estrategias dan foco a las acciones y en períodos de tiempo que sean sujetos medibles y pertinentes.
-          p El plan estratégico de #[em marketing] se va desarrollando a través de tácticas muy específicas que son resultados de la planeación operativa. Establecen:
+            br
+            |Se clasifican como generales, tácticas u operativas. Se determinan según los lineamientos o políticas del área objeto de estudio y responden a su participación en la misión organizacional. Las estrategias dan foco a las acciones y en períodos de tiempo que sean sujetos medibles y pertinentes.
+            br
+            br
+            |El plan estratégico de #[em marketing] se va desarrollando a través de tácticas muy específicas que son resultados de la planeación operativa. Establecen:
           ul.lista-ul--color.ms-4  
             <li style="margin-bottom: 1px">
               <i class="fas fa-circle" style="color:#30610C; font-size: x-small"></i>
@@ -296,7 +298,7 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img22.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
-              p Son normas específicas por áreas. Las más comunes son aquellas en las que se especifican los objetivos de calidad que se deben alcanzar por una rama de la organización, políticas medioambientales, prevención de riesgos laborales.
+              p Son normas específicas por áreas. Las más comunes son aquellas en las que se especifican los objetivos de calidad que se deben alcanzar en cada una de las ramas de la organización: políticas medioambientales, prevención de riesgos laborales.
       .col-lg-4.col-7(data-aos="fade-left")
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
