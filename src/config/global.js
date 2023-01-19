@@ -136,9 +136,9 @@ export default {
         'http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero.html',
     },
     {
-      tema: 'Productos financieros',
+      tema: 'Sistema financiero',
       referencia:
-        'Decreto 222 de 2020. (Ministerio de Hacienda y Crédito Público). Por el cual se modifica el Decreto 2555 de 2010 en lo relacionado con los corresponsales, las cuentas de ahorro electrónicas, los depósitos electrónicos, el crédito de bajo monto y se dictan otras disposiciones. Febrero 14 de 2020.',
+        'Decreto 222 de 2020. (Ministerio de Hacienda y Crédito Público). Por el cual se modifica el Decreto 2555 de 2010 en lo relacionado con los corresponsales, las cuentas de ahorro electrónicas, los depósitos electrónicos, el crédito de bajo monto y se dictan otras disposiciones. Febrero 14 de 2020. ',
       tipo: 'PDF',
       link:
         'https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20222%20DEL%2014%20DE%20FEBRERO%20DE%202020.pdf',
@@ -204,13 +204,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Findeter. (s.f.). <em>Atención al Consumidor Financiero</em>. Findeter.',
+        'Findeter. (s.f.). <em>Atención al Consumidor Financiero. Findeter.</em>  ',
       link:
         'https://www.findeter.gov.co/sistema-de-atencion-al-consumidor-financiero-sac',
     },
     {
       referencia:
-        'Kotler, P. y Armstrong, G. (2008). <em>Fundamentos de marketing</em>. Pearson Educación.',
+        'Kotler, P. y Armstrong, G. (2008). <em>Fundamentos de marketing.</em> Pearson Educación.',
       link:
         'https://www.academia.edu/42228045/Kotler_P_and_Armstrong_G_2008_Fundamentos_de_marketing_8va_edici%C3%B3n_Pearson_Educaci%C3%B3n_M%C3%A9xico',
     },

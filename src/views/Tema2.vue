@@ -57,7 +57,8 @@
     
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
       h5 Figura 2
-      span Estructura del plan estratégico de #[em marketing]
+      br
+      span.fst-italic Estructura del plan estratégico de #[em marketing]
     
     figure.mb-4(data-aos="zoom-in")
       img(src="@/assets/curso/tema2/img06.svg")
