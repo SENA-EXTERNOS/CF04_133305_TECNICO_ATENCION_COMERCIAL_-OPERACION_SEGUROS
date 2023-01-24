@@ -155,7 +155,7 @@
               .col-xl-2.col-3
                 img(src='@/assets/curso/tema1/img23.svg')               
               .col
-                p.mb-0 Son empresas donde tanto, su razón social como su actividad económica, se dedican a asegurar riesgos de terceros, de tal manera que protege o resguarda los bienes materiales de los riesgos a los que están expuestos. 
+                p.mb-0 Son empresas donde tanto, su razón social como su actividad económica, se dedican a asegurar riesgos de terceros, de tal manera que protegen o resguardan los bienes materiales, de los riesgos a los que están expuestos.
             .row.justify-content-center(numero="2" titulo="Compañías de reaseguros")
               .col-xl-2.col-3
                 img(src='@/assets/curso/tema1/img24.svg')               

@@ -315,33 +315,46 @@
 
       .row.justify-content-center.mb-4
         .col-lg-4.col-8.mb-lg-0.mb-4
-          .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
+          .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
             .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
-              .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img24.svg')})`}")
-              .t.tarjeta-flip__contenido.px-0.p-4.p-xl-5
+              .tarjeta-flip__img.tarjeta(style="background-color: #feeada")
+                .imagen.p-5
+                  img(src='@/assets/curso/tema2/img25.svg', alt='' style='width: 321px').m-auto.mb-5
+                .titulo.p-3
+                  h5.mb-0.text-center Gestión de calidad
+              .t.tarjeta-flip__contenido.px-0.p-4.p-xl-5(style="background-color: #fece10 ")
                 p.my-5 Son políticas que van dirigidas a cumplir los requisitos y los compromisos fijados por la empresa. Muestran el plan de mejoramiento de la empresa en la calidad, a corto y a largo plazo.
         .col-lg-4.col-8
           .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
-            .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
-              .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img25.svg')})`}")
+              .tarjeta-flip__img.tarjeta(style="background-color: #feeada")
+                  .imagen.p-5
+                    img(src='@/assets/curso/tema2/img26.svg', alt='' style='width: 321px').m-auto.mb-5
+                  .titulo.p-3
+                    h5.mb-0.text-center Gestión medioambiental
               .t.tarjeta-flip__contenido.px-0.p-4.p-xl-5
                 p.my-5 Permiten cumplir con la normativa medioambiental vigente y promover ambientalmente el reciclado, la disminución de la contaminación, el uso de transporte público.
       
       .row.justify-content-center.mb-4
         .col-lg-4.col-8.mb-lg-0.mb-4
           .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
-            .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
-              .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img26.svg')})`}")
+              .tarjeta-flip__img.tarjeta(style="background-color: #feeada")
+                .imagen.p-5
+                  img(src='@/assets/curso/tema2/img27.svg', alt='' style='width: 321px').m-auto.mb-5
+                .titulo.p-3
+                  h5.mb-0.text-center Seguridad y salud en el trabajo
               .t.tarjeta-flip__contenido.px-0.p-4.p-xl-5
                 p.my-5 Son normas para garantizar un uso responsable de la maquinaria y otras herramientas en la empresa, con el objetivo de evitar accidentes y garantizar la integridad física y mental del personal.
         .col-lg-4.col-8
           .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
-            .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
-              .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img27.svg')})`}")
+              .tarjeta-flip__img.tarjeta(style="background-color: #feeada")
+                .imagen.p-5
+                  img(src='@/assets/curso/tema2/img28.svg', alt='' style='width: 321px').m-auto.mb-5
+                .titulo.p-3
+                  h5.mb-0.text-center Privacidad y confidencialidad
               .t.tarjeta-flip__contenido.px-0.p-4.p-xl-5
                 p.my-5 Estas suelen ir encaminadas a la protección de la empresa, protegen la información sensible que posee la organización, para poder garantizar una buena relación legal entre el personal, la empresa y los compradores.
 
