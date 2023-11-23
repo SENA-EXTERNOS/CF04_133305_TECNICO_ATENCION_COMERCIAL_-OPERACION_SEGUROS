@@ -219,10 +219,6 @@ export default {
         'Ley 795 de 2003. Por la cual se ajustan algunas normas del Estatuto Orgánico del Sistema Financiero y se dictan otras disposiciones. Enero 14 de 2003.',
       link: 'https://normativa.archivogeneral.gov.co/ley-795-de/',
     },
-    {
-      referencia:
-        'Rossotti, C. (2003). <em>Empresa, estrategia y gestión.</em>',
-    },
   ],
   creditos: {
     liderEquipo: [
